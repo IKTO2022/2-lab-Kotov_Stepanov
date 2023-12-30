@@ -1,4 +1,3 @@
-# 2-lab-Kotov_Stepanov
 # README.md
 
 Владелец: Котов Степанов
